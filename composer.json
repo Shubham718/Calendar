@@ -1,0 +1,7 @@
+{
+    "require": {
+        "spatie/calendar-links": "^1.5",
+        "msppack/outlook-calendar": "^1.0",
+        "laravel/socialite": "^5.2"
+    }
+}
